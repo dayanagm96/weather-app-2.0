@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/dayanagm96/weather-app-2.0",
   "name": "weather-app-react",
+  "homepage": "https://github.com/dayanagm96/weather-app-2.0",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
