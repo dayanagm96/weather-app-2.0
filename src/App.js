@@ -34,7 +34,6 @@ function App() {
           </div>
           <div className="temperature">
             {data.main ? <h1>{data.main.temp.toFixed()}°C</h1> : null}
-            {/* <h1>{data.main.temp}°C</h1> */}
           </div>
           <div className="description">
             {data.weather ? <p>{data.weather[0].main}</p> : null}
